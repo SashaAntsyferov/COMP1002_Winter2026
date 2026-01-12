@@ -15,7 +15,7 @@ This repo is your central hub for:
 ### 1. Fork the Repository
 
 * Click the **Fork** button at the top-right of this page.
-* This creates **your own copy** of the COMP1054 repo under your GitHub account.
+* This creates **your own copy** of the COMP1002 repo under your GitHub account.
 
 ### 2. Clone Your Fork
 
